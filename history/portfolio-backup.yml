@@ -1,7 +1,7 @@
 url: $PORTFOLIO_URL_BACKUP
-status: up
-code: 200
-responseTime: 295
-lastUpdated: 2023-03-07T21:22:24.063Z
+status: down
+code: 404
+responseTime: 30
+lastUpdated: 2023-03-07T21:31:48.883Z
 startTime: Fri Mar 03 2023 19:44:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

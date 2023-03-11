@@ -25,15 +25,15 @@
     "url": "$PORTFOLIO_URL_BACKUP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portfolio-backup",
-    "status": "up",
-    "uptime": "65.09%",
-    "uptimeDay": "60.31%",
-    "uptimeWeek": "60.37%",
-    "uptimeMonth": "65.09%",
-    "uptimeYear": "65.09%",
+    "status": "down",
+    "uptime": "65.60%",
+    "uptimeDay": "61.05%",
+    "uptimeWeek": "60.92%",
+    "uptimeMonth": "65.60%",
+    "uptimeYear": "65.60%",
     "time": 199,
-    "timeDay": 247,
-    "timeWeek": 201,
+    "timeDay": 243,
+    "timeWeek": 200,
     "timeMonth": 199,
     "timeYear": 199,
     "dailyMinutesDown": {
@@ -43,7 +43,7 @@
       "2023-03-08": 565,
       "2023-03-07": 724,
       "2023-03-06": 783,
-      "2023-03-05": 170
+      "2023-03-05": 115
     }
   }
 ]

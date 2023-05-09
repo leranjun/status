@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 327,
     "timeDay": 356,
-    "timeWeek": 330,
+    "timeWeek": 329,
     "timeMonth": 327,
     "timeYear": 327,
     "dailyMinutesDown": {}
@@ -22,18 +22,19 @@
     "url": "$WHOIS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "who-is",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 974,
     "timeDay": 2865,
-    "timeWeek": 974,
+    "timeWeek": 1007,
     "timeMonth": 974,
     "timeYear": 974,
     "dailyMinutesDown": {
+      "2023-05-09": 0,
       "2023-05-08": 32
     }
   }

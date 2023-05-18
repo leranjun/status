@@ -22,7 +22,7 @@
     "url": "$WHOIS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "who-is",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
@@ -34,6 +34,7 @@
     "timeMonth": 1172,
     "timeYear": 1172,
     "dailyMinutesDown": {
+      "2023-05-18": 0,
       "2023-05-13": 35,
       "2023-05-10": 30,
       "2023-05-09": 48,

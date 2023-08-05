@@ -1,7 +1,7 @@
 url: $WHOIS_URL
-status: down
-code: 502
-responseTime: 800
-lastUpdated: 2023-08-05T16:50:51.005Z
+status: up
+code: 200
+responseTime: 4433
+lastUpdated: 2023-08-05T17:01:30.213Z
 startTime: Tue May 02 2023 12:57:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

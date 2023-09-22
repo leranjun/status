@@ -1,7 +1,7 @@
 url: $WHOIS_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-22T21:38:51.991Z
+status: up
+code: 200
+responseTime: 210
+lastUpdated: 2023-09-22T21:48:41.843Z
 startTime: 2023-05-02T12:57:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>

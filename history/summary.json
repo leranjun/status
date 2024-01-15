@@ -4,19 +4,19 @@
     "url": "$PORTFOLIO_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portfolio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 370,
-    "timeDay": 365,
-    "timeWeek": 379,
-    "timeMonth": 351,
+    "timeDay": 327,
+    "timeWeek": 368,
+    "timeMonth": 349,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2024-01-15": 0
+      "2024-01-15": 19
     }
   },
   {
